@@ -11,5 +11,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Las personalidades múltiples 
 * Creado por el increíble Developer Master 69
 * Incluye ejemplos en Windows, Linux y MAc
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
